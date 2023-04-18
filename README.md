@@ -12,6 +12,8 @@ Pre-requisits:
 	Docker must be installed 
 
 	Need any code editor
+	
+	Node and Express must be installed
 
 To run the application on the docker we need a docker image.
 
